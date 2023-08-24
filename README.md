@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreRanussi
 - 👀 I’m interested in solving coding problems. 
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me through my LinkedIn
+- 📫 You can reach me through my LinkedIn. 
 
 <!---
 AndreRanussi/AndreRanussi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
