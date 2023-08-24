@@ -1,12 +1,14 @@
-<p align="left"> <img src="https://raw.githubusercontent.com/AndreRanussi/AndreRanussi/main/GitHub%20Banner.png" alt="my banner"/> </a> 
+<p align=”center”>
+<img width=”200" height=”200" src=”https://github.com/AndreRanussi/AndreRanussi/blob/main/GitHub%20Banner.png" alt=”my banner”>
+</p>
 
 <h1 align="center">Hi 👋, I'm Andre Ranussi</h1>
-<h3 align="center">A passionate software developer based in London! My journey into the world of programming has been fueled by a deep fascination for creating and problem-solving. I've been working on personal projects that showcase my dedication and progress in honing my coding skills.</h3>
+<h3 align="centre">A passionate software developer based in London! My journey into the world of programming has been fueled by a deep fascination for creating and problem-solving. I've been working on personal projects that showcase my dedication and progress in honing my coding skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreranussi&label=Profile%20views&color=0e75b6&style=flat" alt="andreranussi" /> </p>
 
 <!-- - 🔭 I’m currently working on [Project Name](https://andreranussi.com/) -->
-- 🔭 I’m currently planning working on a **Workout Tracker** 
+- 🔭 I’m currently planning to work on a **Workout Tracker** 
 
 - 🌱 I’m focusing on learning **JavaScript, React and MongoDB**
 
@@ -25,7 +27,9 @@
 - ⚡ Fun fact **I am originally from Brazil!**
 
 <h3 align="left">Education</h3>
+
  🏫 Studying **BSc (Honours) Computing and IT (Software)** at **The Open University**
+ 
 
 <h4 align="left" >Modules</h4>
     
