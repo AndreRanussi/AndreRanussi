@@ -1,6 +1,6 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/AndreRanussi/AndreRanussi/blob/main/GitHub%20Banner.png" alt=”my banner”>
-</p>
+<img src="https://raw.githubusercontent.com/AndreRanussi/AndreRanussi/main/GitHub%20Banner.png" alt="Andre Ranussi Banner"/>
+
+https://raw.githubusercontent.com/AndreRanussi/AndreRanussi/main/GitHub%20Banner.png
 
 <h1 align="center">Hi 👋, I'm Andre Ranussi</h1>
 <h3 align="centre">A passionate software developer based in London! My journey into the world of programming has been fueled by a deep fascination for creating and problem-solving. I've been working on personal projects that showcase my dedication and progress in honing my coding skills.</h3>
