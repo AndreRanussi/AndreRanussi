@@ -1,3 +1,9 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Andre Ranussi</h1>
 <h3 align="center">A passionate software developer based in London! My journey into the world of programming has been fueled by a deep fascination for creating and problem-solving. I've been working on personal projects that showcase my dedication and progress in honing my coding skills.</h3>
 
