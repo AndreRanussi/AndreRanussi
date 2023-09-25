@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreranussi&label=Profile%20views&color=0e75b6&style=flat" alt="andreranussi" /> </p>
 
 <!-- - 🔭 I’m currently working on [Project Name](https://andreranussi.com/) -->
-- 🔭 I’m currently planning to work on a **Workout Tracker** 
+- 🔭 I’m currently planning to work on a **Daily Diet Tracker App - FlexiDiet** 
 
-- 🌱 I’m focusing on learning **JavaScript, React and MongoDB**
+- 🌱 I’m focusing on learning **Kotlon, Android Dvelopment**
 
 <!-- - 👯 I’m looking to collaborate on [Project Name](https://andreranussi.com/) -->
 
