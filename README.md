@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on [Project Name](https://andreranussi.com/) -->
 - 🔭 I’m currently planning to work on a **Daily Diet Tracker App - FlexiDiet** 
 
-- 🌱 I’m focusing on learning **Kotlon, Android Dvelopment**
+- 🌱 I’m focusing on learning **Kotlin, Android Dvelopment**
 
 <!-- - 👯 I’m looking to collaborate on [Project Name](https://andreranussi.com/) -->
 
