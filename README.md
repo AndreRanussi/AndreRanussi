@@ -18,7 +18,7 @@
 
 <!-- - 💬 Ask me about **Technologies** -->
 
-- 📫 How to reach me **ranussi.a@gmail.com**
+- 📫 How to reach me, Andre Ranussi on LinkedIN
 
 <!-- - 📄 Know about my experiences [CV](CV) -->
 
