@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre Ranussi</h1>
-<p align="centre">A passionate Android Developer based in London! My journey into the programming world has been fueled by a deep fascination for creating and problem-solving. I've been working on personal application projects that showcase my dedication and progress in honing my coding skills.</p>
+<p align="centre">A passionate Android Developer based in London with a constant drive to learn and develop further while creating problem-solving applications. I've been working on personal application projects that showcase my dedication and progress in developing my development skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreranussi&label=Profile%20views&color=0e75b6&style=flat" alt="andreranussi" /> </p>
 
