@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AndreRanussi/AndreRanussi/main/GitHub%20Banner.png" alt="Andre Ranussi Banner"/>
-
 <h1 align="center">Hi 👋, I'm Andre Ranussi</h1>
 <p align="centre">A passionate software developer based in London! My journey into the world of programming has been fueled by a deep fascination for creating and problem-solving. I've been working on personal projects that showcase my dedication and progress in honing my coding skills.</p>
 
