@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreranussi&label=Profile%20views&color=0e75b6&style=flat" alt="andreranussi" /> </p>
 
 <!-- - 🔭 I’m currently working on [Project Name](https://andreranussi.com/) -->
-- 🔭 I’m currently working on a <a href="https://github.com/AndreRanussi/SipSearch">**SipSearch**</a>
+- 🔭 I’m currently working on a <a href="https://github.com/AndreRanussi/">**FlexiFit**</a>
 
 - 🌱 I’m focusing on developing further in **Android Developrment using Kotlin**
 
